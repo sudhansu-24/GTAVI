@@ -1,9 +1,12 @@
 # 🎮 GTA VI - Interactive Landing Page
 
-![GTA VI Banner](https://gtasixx.vercel.app/bg.png)
+<div align="center">
+  
+![GTA VI Banner](https://gtasixx.vercel.app/gta-vi-banner.jpg)
 
-## 🚀 Live Demo
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gtasixx.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://gtasixx.vercel.app/)
+
+</div>
 
 ## 🎯 Overview
 An immersive, interactive landing page for Grand Theft Auto VI, featuring stunning animations, parallax effects, and a modern design that captures the essence of the game's atmosphere.
@@ -75,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Rockstar Games for the inspiration
 - GSAP for the amazing animation library
 - Vercel for hosting
-- [Sheriyans Coding School](https://www.youtube.com/@SheryiansCodingSchool) for the amazing tutorial and guidance
+- [Sheriyans Coding School](https://www.youtube.com/@sheryians) for the amazing tutorial and guidance.
 
 ---
 Made with ❤️ by SUDHANSU SEKHAR
