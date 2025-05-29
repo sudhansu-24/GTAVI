@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![GTA VI Banner](https://gtasixx.vercel.app/gta-vi-banner.jpg)
+![GTA VI Banner](public/gta-vi-banner.jpg)
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://gtasixx.vercel.app/)
 
